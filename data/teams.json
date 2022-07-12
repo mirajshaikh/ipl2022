@@ -1,0 +1,62 @@
+[
+	{
+		"name": "Chennai Super Kings",
+		"logo": "./logos/CSK.png",
+		"Venue": " M. A. Chidambaram Stadium",
+		"BG": "linear-gradient(180deg, #FCCA06 0%, #F25C19 100%)"
+	},
+	{
+		"name": "Delhi Capitals",
+		"logo": "./logos/DC.png",
+		"Venue": "Arun Jaitley Stadium",
+		"BG": "linear-gradient(180deg, #0078BC 0%, #17479E 100%)"
+	},
+	{
+		"name": "Gujarat Titans",
+		"logo": "./logos/GT.png",
+		"Venue": "Narendra Modi Stadium",
+		"BG": "linear-gradient(180deg, #1C1C1C 0%, #0B4973 100%)"
+	},
+	{
+		"name": "Kolkata Knight Riders",
+		"logo": "./logos/KKR.png",
+		"Venue": "Eden Gardens",
+		"BG": "linear-gradient(180deg, #3B215D 0%, #552792 100%)"
+	},
+	{
+		"name": "Lucknow Super Giants",
+		"logo": "./logos/LSG.png",
+		"Venue": "BRSABV Ekana Cricket Stadium",
+		"BG": "linear-gradient(180deg, #A72056 0%, #FFCC00 100%)"
+	},
+	{
+		"name": "Mumbai Indians",
+		"logo": "./logos/MI.png",
+		"Venue": "Wankhede Stadium",
+		"BG": "linear-gradient(180deg, #006CB7 0%, #003B7A 100%)"
+	},
+	{
+		"name": "Punjab Kings",
+		"logo": "./logos/PBKS.png",
+		"Venue": "Punjab Cricket Association IS Bindra Stadium",
+		"BG": "linear-gradient(180deg, #D71920 0%, #84171B 100%)"
+	},
+	{
+		"name": "Rajasthan Royals",
+		"logo": "./logos/RR.png",
+		"Venue": "Sawai Mansingh Stadium",
+		"BG": "linear-gradient(180deg, #EA1A85 0%, #001D48 100%)"
+	},
+	{
+		"name": "Royal Challengers Bangalore",
+		"logo": "./logos/RCB.png",
+		"Venue": "M. Chinnaswamy Stadium",
+		"BG": "linear-gradient(180deg, #6A6A6A 0%, #1C1C1C 100%)"
+	},
+	{
+		"name": "Sunrisers Hyderabad",
+		"logo": "./logos/SRH.png",
+		"Venue": "Rajiv Gandhi Intl. Cricket Stadium",
+		"BG": "linear-gradient(180deg, #F26522 0%, #ED1A37 100%)"
+	}
+]

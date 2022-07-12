@@ -1,0 +1,167 @@
+[
+	{
+		"id": "1",
+		"name": "MS Dhoni",
+		"img": "dhoni",
+		"Role": "Wicketkeeper Batter",
+		"Nationality": "Indian",
+		"Batting Style": "Right-handed",
+		"DOB": "07 July 1981",
+		"Bowling Style": "Right-arm Medium",
+		"IPL Debut": "2008"
+	},
+	{
+		"id": "2",
+		"name": "C Hari Nishaanth",
+		"img": "Nishaanth",
+		"Role": "Batter",
+		"Nationality": "Indian",
+		"Batting Style": "Left-handed",
+		"DOB": "16 August 1996",
+		"Bowling Style": "Right-arm Offbreak",
+		"IPL Debut": ""
+	},
+	{
+		"id": "3",
+		"name": "Devon Conway",
+		"img": "Conway",
+		"Role": "WK-Batsman",
+		"Nationality": "South African",
+		"Batting Style": "Left-handed",
+		"DOB": "08 July 1991",
+		"Bowling Style": "Right-arm Medium",
+		"IPL Debut": ""
+	},
+	{
+		"id": "4",
+		"name": "Robin Uthappa",
+		"img": "Uthappa",
+		"Role": "Batter",
+		"Nationality": "Indian",
+		"Batting Style": "Right-handed",
+		"DOB": "11 November 1985",
+		"Bowling Style": "Right-arm Medium",
+		"IPL Debut": "2008"
+	},
+	{
+		"id": "5",
+		"name": "Ruturaj Gaikwad",
+		"img": "Gaikwad",
+		"Role": "Batter",
+		"Nationality": "Indian",
+		"Batting Style": "Right-handed",
+		"DOB": "31 January 1997",
+		"Bowling Style": "N/A",
+		"IPL Debut": ""
+	},
+	{
+		"id": "6",
+		"name": "Subhranshu Senapati",
+		"img": "Senapati",
+		"Role": "Batter",
+		"Nationality": "Indian",
+		"Batting Style": "Left-handed",
+		"DOB": "30 December 1996",
+		"Bowling Style": "Right-arm Medium",
+		"IPL Debut": ""
+	},
+	{
+		"id": "7",
+		"name": "Ambati Rayudu",
+		"img": "Rayudu",
+		"Role": "Wicketkeeper Batter",
+		"Nationality": "Indian",
+		"Batting Style": "Right-handed",
+		"DOB": "23 September 1985",
+		"Bowling Style": "Right-arm Off-spin",
+		"IPL Debut": "2010"
+	},
+	{
+		"id": "8",
+		"name": "Ravindra Jadeja",
+		"img": "Jadeja",
+		"Role": "All-rounder",
+		"Nationality": "Indian",
+		"Batting Style": " Left-handed",
+		"DOB": "06 December 1988",
+		"Bowling Style": "Left-arm Orthodox Spin",
+		"IPL Debut": "2008"
+	},
+	{
+		"id": "9",
+		"name": "Narayan Jagadeesan",
+		"img": "Jagadeesan",
+		"Role": "Wicketkeeper Batter",
+		"Nationality": "Indian",
+		"Batting Style": "Right-handed",
+		"DOB": "24 December 1995",
+		"Bowling Style": "N/A",
+		"IPL Debut": ""
+	},
+	{
+		"id": "10",
+		"name": "Chris Jordan",
+		"img": "Jordan",
+		"Role": "Bowler",
+		"Nationality": "English",
+		"Batting Style": "Right-handed",
+		"DOB": "04 October 1988",
+		"Bowling Style": "Right-arm Fast-medium",
+		"IPL Debut": "2016"
+	},
+	{
+		"id": "11",
+		"name": "Dwaine Pretorius",
+		"img": "Pretorius",
+		"Role": "Bowling Allrounder",
+		"Nationality": "South African",
+		"Batting Style": "Left-handed",
+		"DOB": "29 March 1989",
+		"Bowling Style": "Right-arm Fast-medium",
+		"IPL Debut": ""
+	},
+	{
+		"id": "12",
+		"name": "Dwayne Bravo",
+		"img": "Bravo",
+		"Role": "All-rounder",
+		"Nationality": "West Indian",
+		"Batting Style": "Right-handed",
+		"DOB": "07 October 1983",
+		"Bowling Style": "Right-arm Medium Fast",
+		"IPL Debut": "2008"
+	},
+	{
+		"id": "13",
+		"name": "Mitchell Santner",
+		"img": "Santner",
+		"Role": "Bowling all-rounder",
+		"Nationality": "New Zealander",
+		"Batting Style": "Left-handed",
+		"DOB": "05 February 1992",
+		"Bowling Style": "Left-arm Orthodox",
+		"IPL Debut": "2019"
+	},
+	{
+		"id": "14",
+		"name": "K Bhagath Varma",
+		"img": "Bhagath",
+		"Role": "Bowling all-rounder",
+		"Nationality": "Indian",
+		"Batting Style": "Right-handed",
+		"DOB": "21 September 1998",
+		"Bowling Style": "Right-arm Offbreak",
+		"IPL Debut": ""
+	},
+	{
+		"id": "15",
+		"name": "Moeen Ali",
+		"img": "Ali",
+		"Role": "Batting all-rounder",
+		"Nationality": "English",
+		"Batting Style": "Left-handed",
+		"DOB": "18 June 1987",
+		"Bowling Style": "Right-arm Offbreak",
+		"IPL Debut": "2018"
+	}
+]

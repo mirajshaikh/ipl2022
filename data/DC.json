@@ -1,0 +1,167 @@
+[
+	{
+		"id": 0,
+		"img": "https://assets.iplt20.com/ipl/IPLHeadshot2022/2972.png",
+		"name": "Rishabh Pant",
+		"Role": "Wicketkeeper Batter",
+		"Nationality": "Indian",
+		"Batting Style": "Right-handed",
+		"DOB": "07 July 1981",
+		"Bowling Style": "Right-arm Medium",
+		"IPL Debut": "2008"
+	},
+	{
+		"id": 1,
+		"img": "https://assets.iplt20.com/ipl/IPLHeadshot2022/0.png",
+		"name": "Ashwin Hebbar",
+		"Role": "Batter",
+		"Nationality": "Indian",
+		"Batting Style": "Left-handed",
+		"DOB": "16 August 1996",
+		"Bowling Style": "Right-arm Offbreak",
+		"IPL Debut": ""
+	},
+	{
+		"id": 2,
+		"img": "https://assets.iplt20.com/ipl/IPLHeadshot2022/170.png",
+		"name": "David Warner",
+		"Role": "WK-Batsman",
+		"Nationality": "South African",
+		"Batting Style": "Left-handed",
+		"DOB": "08 July 1991",
+		"Bowling Style": "Right-arm Medium",
+		"IPL Debut": ""
+	},
+	{
+		"id": 3,
+		"img": "https://assets.iplt20.com/ipl/IPLHeadshot2022/72.png",
+		"name": "Mandeep Singh",
+		"Role": "Batter",
+		"Nationality": "Indian",
+		"Batting Style": "Right-handed",
+		"DOB": "11 November 1985",
+		"Bowling Style": "Right-arm Medium",
+		"IPL Debut": "2008"
+	},
+	{
+		"id": 4,
+		"img": "https://assets.iplt20.com/ipl/IPLHeadshot2022/3764.png",
+		"name": "Prithvi Shaw",
+		"Role": "Batter",
+		"Nationality": "Indian",
+		"Batting Style": "Right-handed",
+		"DOB": "31 January 1997",
+		"Bowling Style": "N/A",
+		"IPL Debut": ""
+	},
+	{
+		"id": 5,
+		"img": "https://assets.iplt20.com/ipl/IPLHeadshot2022/3333.png",
+		"name": "Rovman Powell",
+		"Role": "Batter",
+		"Nationality": "Indian",
+		"Batting Style": "Left-handed",
+		"DOB": "30 December 1996",
+		"Bowling Style": "Right-arm Medium",
+		"IPL Debut": ""
+	},
+	{
+		"id": 6,
+		"img": "https://assets.iplt20.com/ipl/IPLHeadshot2022/2734.png",
+		"name": "K.S Bharat",
+		"Role": "Wicketkeeper Batter",
+		"Nationality": "Indian",
+		"Batting Style": "Right-handed",
+		"DOB": "23 September 1985",
+		"Bowling Style": "Right-arm Off-spin",
+		"IPL Debut": "2010"
+	},
+	{
+		"id": 7,
+		"img": "https://assets.iplt20.com/ipl/IPLHeadshot2022/1619.png",
+		"name": "Tim Seifert",
+		"Role": "All-rounder",
+		"Nationality": "Indian",
+		"Batting Style": " Left-handed",
+		"DOB": "06 December 1988",
+		"Bowling Style": "Left-arm Orthodox Spin",
+		"IPL Debut": "2008"
+	},
+	{
+		"id": 8,
+		"img": "https://assets.iplt20.com/ipl/IPLHeadshot2022/1113.png",
+		"name": "Axar Patel",
+		"Role": "Wicketkeeper Batter",
+		"Nationality": "Indian",
+		"Batting Style": "Right-handed",
+		"DOB": "24 December 1995",
+		"Bowling Style": "N/A",
+		"IPL Debut": ""
+	},
+	{
+		"id": 9,
+		"img": "https://assets.iplt20.com/ipl/IPLHeadshot2022/3766.png",
+		"name": "Kamlesh Nagarkoti",
+		"Role": "Bowler",
+		"Nationality": "English",
+		"Batting Style": "Right-handed",
+		"DOB": "04 October 1988",
+		"Bowling Style": "Right-arm Fast-medium",
+		"IPL Debut": "2016"
+	},
+	{
+		"id": 10,
+		"img": "https://assets.iplt20.com/ipl/IPLHeadshot2022/6870.png",
+		"name": "Lalit Yadav",
+		"Role": "Bowling Allrounder",
+		"Nationality": "South African",
+		"Batting Style": "Left-handed",
+		"DOB": "29 March 1989",
+		"Bowling Style": "Right-arm Fast-medium",
+		"IPL Debut": ""
+	},
+	{
+		"id": 11,
+		"img": "https://assets.iplt20.com/ipl/IPLHeadshot2022/221.png",
+		"name": "Mitchell Marsh",
+		"Role": "All-rounder",
+		"Nationality": "West Indian",
+		"Batting Style": "Right-handed",
+		"DOB": "07 October 1983",
+		"Bowling Style": "Right-arm Medium Fast",
+		"IPL Debut": "2008"
+	},
+	{
+		"id": 12,
+		"img": "https://assets.iplt20.com/ipl/IPLHeadshot2022/3188.png",
+		"name": "Pravin Dubey",
+		"Role": "Bowling all-rounder",
+		"Nationality": "New Zealander",
+		"Batting Style": "Left-handed",
+		"DOB": "05 February 1992",
+		"Bowling Style": "Left-arm Orthodox",
+		"IPL Debut": "2019"
+	},
+	{
+		"id": 13,
+		"img": "https://assets.iplt20.com/ipl/IPLHeadshot2022/17191.png",
+		"name": "Ripal Patel",
+		"Role": "Bowling all-rounder",
+		"Nationality": "Indian",
+		"Batting Style": "Right-handed",
+		"DOB": "21 September 1998",
+		"Bowling Style": "Right-arm Offbreak",
+		"IPL Debut": ""
+	},
+	{
+		"id": 14,
+		"img": "https://assets.iplt20.com/ipl/IPLHeadshot2022/1564.png",
+		"name": "Sarfaraz Khan",
+		"Role": "Batting all-rounder",
+		"Nationality": "English",
+		"Batting Style": "Left-handed",
+		"DOB": "18 June 1987",
+		"Bowling Style": "Right-arm Offbreak",
+		"IPL Debut": "2018"
+	}
+]
